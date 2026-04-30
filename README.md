@@ -31,7 +31,7 @@ Key properties:
 | Path | Description |
 |------|-------------|
 | `CAD/` | Reference STEP geometry for integration |
-| `docs/` | Integration considerations and key dimensions |
+| `docs/` | Removed for now |
 
 ---
 
