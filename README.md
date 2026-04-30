@@ -41,8 +41,3 @@ Key properties:
 suitable for clearance checks, dock geometry layout, and integration modelling.
 
 ---
-
-## Docs
-
-- [Integration overview](docs/integration.md) — dock geometry, tool positions, and
-  what to design around
